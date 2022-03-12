@@ -1,5 +1,6 @@
-<img width="644" alt="profile" src="https://user-images.githubusercontent.com/40794177/158017379-80ba4609-ad7d-424e-9fb6-c38ae7f2adcd.png">
+
 - 👋 Hi, I’m Brice - Founder of Fadou.com
+- <img width="370" alt="profile" src="https://user-images.githubusercontent.com/40794177/158017492-3e57f5cd-3d91-49e2-a375-2fd1842846db.png">
 - 👀 I’m interested in social relations on the web and in life in general.
 - 🌱 I’m currently learning ... We never stop learning, I'm trying to become a better Founder (boss) and person every single day.
 - 💞️ I’m looking to collaborate with serious skilled peoples who may be helpfull to Fadou.com to make it a great community.
