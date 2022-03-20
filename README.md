@@ -1,7 +1,7 @@
-![logo-couverture-3](https://user-images.githubusercontent.com/40794177/159143064-2611dcb4-f5b5-40b8-a4b7-79f5df809205.jpg)
+![screen600](https://user-images.githubusercontent.com/40794177/159143746-1cb8eeff-093d-428a-b6f9-f70f53ccd0f1.jpg)
 
-Fadou.com is a social network that covers all areas of everyday life ... in terms of social relations, both personal and professional:
-
+Fadou.com is a social network that covers all areas of everyday life ... 
+in terms of social relations, both personal and professional:
 
 <a href="https://github.com/fadoucom/fadoucom"><img src="https://img.shields.io/badge/-friends-blue"/></a>
 <a href="https://github.com/fadoucom/fadoucom"><img src="https://img.shields.io/badge/-love-blue"/></a>
