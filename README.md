@@ -1,15 +1,27 @@
+![logo-couverture-3](https://user-images.githubusercontent.com/40794177/159143064-2611dcb4-f5b5-40b8-a4b7-79f5df809205.jpg)
 
-- 👋 Hi, I’m Brice - Founder of Fadou.com
-- <img width="370" alt="profile" src="https://user-images.githubusercontent.com/40794177/158017492-3e57f5cd-3d91-49e2-a375-2fd1842846db.png">
-- 👻 I’m interested in social relations on the web and in life in general.
-- :octocat: I’m currently learning ... We never stop learning, I'm trying to become a better Founder (boss) and person every single day.
-- 💞️ I’m looking to collaborate with serious skilled peoples who may be helpfull to Fadou.com to make it a great community.
-- 📫 You can reach me by signing up on Fadou.com. My <img src=https://img.shields.io/badge/fadou%20user%20id%20is-%22brice%22-blue/> you can add me and talk there 😃
+Fadou.com is a social network that covers all areas of everyday life ... in terms of social relations, both personal and professional:
 
-#### My skills: 
-[![Trello Badge](https://img.shields.io/badge/-Trello-61DBFB?style=for-the-badge&labelColor=black&logo=trello&logoColor=61DBFB)](#)
-[![Canva Badge](https://img.shields.io/badge/-Canva-61DBFB?style=for-the-badge&labelColor=black&logo=canva&logoColor=61DBFB)](#)
 
+<a href="https://github.com/fadoucom/fadoucom"><img src="https://img.shields.io/badge/-friends-blue"/></a>
+<a href="https://github.com/fadoucom/fadoucom"><img src="https://img.shields.io/badge/-love-blue"/></a>
+<a href="https://github.com/fadoucom/fadoucom"><img src="https://img.shields.io/badge/-familly-blue"/></a>
+
+<a href="https://github.com/fadoucom/fadoucom"><img src="https://img.shields.io/badge/-Studies-yellow"/></a>
+<a href="https://github.com/fadoucom/fadoucom"><img src="https://img.shields.io/badge/-private lessons-yellow"/></a>
+<a href="https://github.com/fadoucom/fadoucom"><img src="https://img.shields.io/badge/-language exchanges-yellow"/></a>
+
+<a href="https://github.com/fadoucom/fadoucom"><img src="https://img.shields.io/badge/-Classifieds-green"/></a>
+<a href="https://github.com/fadoucom/fadoucom"><img src="https://img.shields.io/badge/-bargains-green"/></a>
+
+<a href="https://github.com/fadoucom/fadoucom"><img src="https://img.shields.io/badge/-Work-red"/></a>
+<a href="https://github.com/fadoucom/fadoucom"><img src="https://img.shields.io/badge/-job offers-red"/></a>
+<a href="https://github.com/fadoucom/fadoucom"><img src="https://img.shields.io/badge/-freelancers-red"/></a>
+<a href="https://github.com/fadoucom/fadoucom"><img src="https://img.shields.io/badge/-business partners-red"/></a>
+
+<a href="https://github.com/fadoucom/fadoucom"><img src="https://img.shields.io/github/stars/fadoucom/fadoucom" alt="Stars Badge"/></a>
+<a href="https://github.com/fadoucom/fadoucom"><img src="https://img.shields.io/static/v1?label=<LABEL>&message=<TEST>&color=<yellow>"/></a>
+<img src="https://img.shields.io/endpoint?url=<https://github.com/fadoucom/fadoucom/edit/main/README.md>&style<yellow>"/>
 
 <!---
 fadoucom/fadoucom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
