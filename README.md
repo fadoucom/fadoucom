@@ -19,10 +19,6 @@ Fadou.com is a social network that covers all areas of everyday life ... in term
 <a href="https://github.com/fadoucom/fadoucom"><img src="https://img.shields.io/badge/-freelancers-red"/></a>
 <a href="https://github.com/fadoucom/fadoucom"><img src="https://img.shields.io/badge/-business partners-red"/></a>
 
-<a href="https://github.com/fadoucom/fadoucom"><img src="https://img.shields.io/github/stars/fadoucom/fadoucom" alt="Stars Badge"/></a>
-<a href="https://github.com/fadoucom/fadoucom"><img src="https://img.shields.io/static/v1?label=<LABEL>&message=<TEST>&color=<yellow>"/></a>
-<img src="https://img.shields.io/endpoint?url=<https://github.com/fadoucom/fadoucom/edit/main/README.md>&style<yellow>"/>
-
 <!---
 fadoucom/fadoucom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
